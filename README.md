@@ -2,6 +2,8 @@
 
 This is a trial branch to test how to get started with biicode and [Codeship CI](https://codeship.com/).
 
+Here it is. 
+
 biicode's getting started code. You can read the full guide in [biicode docs](http://docs.biicode.com/c++/gettingstarted.html).
 
 To try this out just:

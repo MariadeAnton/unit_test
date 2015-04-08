@@ -2,7 +2,7 @@
 
 This is a trial branch to test how to get started with biicode and [Codeship CI](https://codeship.com/).
 
-Here it is. 
+un-operative yet (biicode needs cmake 3.0 or higher to build)
 
 biicode's getting started code. You can read the full guide in [biicode docs](http://docs.biicode.com/c++/gettingstarted.html).
 

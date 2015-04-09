@@ -28,7 +28,7 @@ git checkout bii/find
 bii buzz
 ```
 
-`bii buzz` is a command to ease up things at first, it runs:
+`bii buzz` is a command to ease up things with biicode, indeed, it runs:
 
 ```
 bii init -L

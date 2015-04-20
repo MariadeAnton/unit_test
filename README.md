@@ -13,7 +13,6 @@ bii build
 
 `biicode.conf` and `CMakeLists.txt` files are everything your repo needs to work [@biicode](www.biicode.com) - [Developing with biicode guide](http://docs.biicode.com/c++/make_biicode_lib.html) comes in handy too. 
 
-<<<<<<< HEAD
 **bii/find** branch tests how to get started with biicode, whole #include routes and `bii find`.
 
 To try it out just:

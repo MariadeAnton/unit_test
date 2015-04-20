@@ -1,15 +1,13 @@
-# Getting Started with biicode and Codeship
+# Getting Started with biicode
 
-This is a trial branch to test how to get started with biicode and [Codeship CI](https://codeship.com/).
-
-un-operative yet (biicode needs cmake 3.0 or higher to build)
+This is a trial branch to test how to get started with biicode and [Codeship CI
 
 biicode's getting started code. You can read the full guide in [biicode docs](http://docs.biicode.com/c++/gettingstarted.html).
 
 To try this out just:
 
 ```
-git clone https://github.com/MariadeAnton/unit_test
+git clone https://github.com/MariadeAnton/unit_test.git
 cd unit_test
 bii init -L
 bii build

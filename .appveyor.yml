@@ -15,9 +15,11 @@ install:
   - cmd: g++ --version
   - cmd: bii --version
 
-build_script:
+before_build:
   - cmd: bii init -L
   - cmd: bii configure -G "%generator%"
+
+build_script:
   - cmd: bii build
 
 test_script:
